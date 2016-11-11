@@ -1,9 +1,9 @@
 # hyperyellow
 
-Turns [hyperterm](https://hyperterm.org) yellow.
+Turns [hyper](https://hyper.is/) yellow.
 
 <img src="https://cldup.com/iKSFIa2GlW.png" width=500 />
 
 ## How to use
 
-Add `hyperyellow` to `plugins` in `~/.hyperterm.js`.
+Add `hyperyellow` to `plugins` in `~/.hyper.js`.
