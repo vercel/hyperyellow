@@ -32,7 +32,7 @@ There are two ways to edit the colors. One effects the terminal colors the other
 
 ### terminal
 
-Only the colors array either in the hyper config/preferences file will change the colors in the terminal itself.
+Only the colors array either in the Hyper config/preferences file will change the colors in the terminal itself.
 
 These are the defaults
 ```
@@ -102,7 +102,7 @@ cursorColor: colors.lightYellow,
 selectionColor: "RGBA(248, 222, 126, 0.3)",
 ```
 
-### hyper
+### Hyper
 
 The second is the Hyper app itself. There is a limited number of things that can be changed outside the terminal window itself. These are modified by adding your own css to targeted items in the Hyper app.
 
